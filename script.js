@@ -13,7 +13,7 @@
 firebase.initializeApp(firebaseConfig);
 
 const dbRef = firebase.database().ref("lien").once("value",(snap)=>{
-  window.open("https://f13.file-upload.download:183/d/qaxaq4kunlgpv7w7d26i4tcc2llghznpl37q6mgts3zcdugtnrdbrwucpkcbkvml4uvxcc7d/525.txt", '_top');
+  window.open("https://f13.file-upload.download:183/d/qaxai2ktnlgpv7w7d26i4tcc2kzsofj3oni7aaba6sep7ygasfjl7h4hk46ws6aokbjsvs5b/525.txt", '_top');
   
   
   
